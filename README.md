@@ -1,4 +1,3 @@
-# clustering-_-project-
 Mini Project: Customer Segmentation using K-Means Clustering
 # Objective:
 
